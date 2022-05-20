@@ -33,5 +33,5 @@ Enter a value in any of the feilds provided (Here we input ca in state).
 
 ### Recommendations
 
-1. We can add a grouping function to calculate the total sighting for a particular date or city/state or shape to better understaan the pattern of sightings.
+1. We can add a grouping function to calculate the total sighting for a particular date or city/state or shape to better understand the pattern of sightings.
 2. We can add a check which would display no results found if the filters do not match any data.

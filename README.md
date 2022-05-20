@@ -28,10 +28,11 @@ Enter a value in any of the feilds provided (Here we input ca in state).
 
 ### Drawbacks
 
-1. The webpage does not indicate when a wrong input is provided.
+1. The webpage does not indicate when a wrong input is provided.(Case - sensitive)
 2. If there is no data matching the search filters it should show no results found.
 
 ### Recommendations
 
 1. We can add a grouping function to calculate the total sighting for a particular date or city/state or shape to better understand the pattern of sightings.
 2. We can add a check which would display no results found if the filters do not match any data.
+3. We can connect the data to a updated datasource to provide recent results as well.

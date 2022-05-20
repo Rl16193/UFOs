@@ -11,7 +11,9 @@ Multiple filters on the webiste are Date, City, State, Country and shape which c
 ![image](https://user-images.githubusercontent.com/100053788/169624541-27d262cf-042c-4a7d-805a-70fc9bb12807.png)
 
 2. You see the filter serach section on the left side of the webpage.
-Enter a value in any of the feilds provided (Here we input ca in state)
+Enter a value in any of the feilds provided (Here we input ca in state).
+
+
 ![image](https://user-images.githubusercontent.com/100053788/169624704-ba0df341-5f28-4c2c-b78f-4e4d73523818.png)
 
 3. Then press enter or click anywhere on the page and you will observe filtered results.
